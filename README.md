@@ -1,4 +1,4 @@
-# Aerospike on Mac
+# Install Aerospike on Mac
 
 ## Install Vagrant and Configure the Virtual Machine
 
